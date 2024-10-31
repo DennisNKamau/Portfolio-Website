@@ -14,8 +14,7 @@ const About = () => {
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
             Hello! My name is Dennis Kamau and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
+            live on the internet. My journey in software development began with a keen interest in creating intuitive user experiences and has evolved into a comprehensive understanding of the entire development lifecycle.when I decided to try editing custom Tumblr themes — turns out
             hacking together a custom reblog button taught me a lot about HTML &
             CSS!
           </p>
@@ -25,16 +24,13 @@ const About = () => {
             <span className="text-textGreen">
               a huge corporation, and a student-led design studio.
             </span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
-            accusantium fugiat veritatis, quidem repellat{" "}
+            I bring a holistic approach to building seamless and responsive web applications.{" "}
             <span className="text-textGreen">
               ab natus possimus? Sint, accusamus!
             </span>
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
-            recusandae.
+          Driven by curiosity and a desire to bring ideas to life, I'm always seeking new challenges and opportunities to make a positive impact through technology.
           </p>
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
