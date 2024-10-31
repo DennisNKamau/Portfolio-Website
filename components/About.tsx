@@ -56,7 +56,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Node.js
+              HTML
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
@@ -68,7 +68,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Express.js
+              Linux
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
