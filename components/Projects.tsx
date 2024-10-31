@@ -31,11 +31,10 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">Teeblaq Brands</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
+            TEEBLAQ BRANDS is a professional branding and printing website designed to showcase and offer top-tier services, including logo design, graphic design, and high-quality printing solutions. It uses modern web technologies like HTML, CSS, and JavaScript. The site is optimized for speed, efficiency, and responsiveness across all devices.{" "}
               <span className="text-textGreen">O-auth</span> and then make the
               purchage using <span className="text-textGreen">stripe</span>.
             </p>
@@ -93,11 +92,10 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Cyber Security Blog</h3>
+              <h3 className="text-2xl font-bold">FullMunch</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-              A full functional Cyber Security Blog where you can view the
-              latest post and{" "}
+            FullMunch is a modern food delivery web application designed to bring delicious fast food, like burgers and fries, right to customers' doorsteps. The platform prioritizes a user-friendly experience, ensuring that ordering great meals is just a few clicks away.{" "}
               <span className="text-textGreen">comments on</span> it by passing
               your ideas besides you can try to add your own{" "}
               <span className="text-textGreen">post</span> on it by logging on
@@ -157,11 +155,10 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">Car Rental</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
+            The Car Rental Website is a responsive platform built with HTML, CSS (Bootstrap), and JavaScript, designed for seamless car rental experiences. With a modern UI and interactive booking features, it caters to diverse travel needs, offering an engaging, professional service using core web technologies.{" "}
               <span className="text-textGreen">O-auth</span> and then make the
               purchage using <span className="text-textGreen">stripe</span>.
             </p>
