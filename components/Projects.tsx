@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://nextamazon.reactbd.com/"
+            href="https://teeblaqke.netlify.app/"
             target="_blank"
           >
             <div>
@@ -48,21 +48,21 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/DennisNKamau/TEEBLAQ-BRANDS"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/WzMtRfzkP-Q"
+                href="#"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://nextamazon.reactbd.com/"
+                href="https://teeblaqke.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -75,7 +75,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row-reverse gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://www.noormohmmad.com/"
+            href="https://fullmunch.netlify.app/"
             target="_blank"
           >
             <div>
@@ -111,21 +111,21 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/DennisNKamau/FullMunch"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/49Fx963su1I"
+                href="#"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://www.noormohmmad.com/"
+                href="https://fullmunch.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -138,7 +138,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://noorshop.netlify.app/"
+            href="https://dennotravels.netlify.app/"
             target="_blank"
           >
             <div>
@@ -172,21 +172,21 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/DennisNKamau/Car-Rental"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/fi0nQc25xAw"
+                href="#"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://noorshop.netlify.app/"
+                href="https://dennotravels.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
