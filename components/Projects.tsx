@@ -39,11 +39,9 @@ const Projects = () => {
               purchage using <span className="text-textGreen">stripe</span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>HTML</li>
+              <li>Javascript</li>
+              <li>CSS</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
@@ -102,11 +100,9 @@ const Projects = () => {
               the portal.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Sanity</li>
-              <li>React Hook Form</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
@@ -163,11 +159,9 @@ const Projects = () => {
               purchage using <span className="text-textGreen">stripe</span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
