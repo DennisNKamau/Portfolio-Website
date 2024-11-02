@@ -2,50 +2,50 @@ import { useState } from "react";
 import SectionTitle from "./SectionTitle";
 import Amazon from "./works/Amazon";
 import Apple from "./works/Apple";
-import Google from "./works/Google";
-import ReactBD from "./works/ReactBD";
+import KUnity from "./works/KUnity";
+import CodeAlpha from "./works/CodeAlpha";
 import Splash from "./works/Splash";
 
 const Experience = () => {
-  const [workReactbd, setWorkReactbd] = useState(true);
-  const [workGoogle, setWorkGoogle] = useState(false);
+  const [workCodeAlpha, setWorkCodeAlpha] = useState(true);
+  const [workKUnity, setWorkKUnity] = useState(false);
   const [workApple, setWorkApple] = useState(false);
   const [workSplash, setWorkSplash] = useState(false);
   const [workAmazon, setWorkAmazon] = useState(false);
 
-  const handleReactbd = () => {
-    setWorkReactbd(true);
-    setWorkGoogle(false);
+  const handleCodeAlpha = () => {
+    setWorkCodeAlpha(true);
+    setWorkKUnity(false);
     setWorkApple(false);
     setWorkSplash(false);
     setWorkAmazon(false);
   };
 
-  const handleGoogle = () => {
-    setWorkReactbd(false);
-    setWorkGoogle(true);
+  const handleKUnity = () => {
+    setWorkCodeAlpha(false);
+    setWorkKUnity(true);
     setWorkApple(false);
     setWorkSplash(false);
     setWorkAmazon(false);
   };
 
   const handleApple = () => {
-    setWorkReactbd(false);
-    setWorkGoogle(false);
+    setWorkCodeAlpha(false);
+    setWorkKUnity(false);
     setWorkApple(true);
     setWorkSplash(false);
     setWorkAmazon(false);
   };
   const handleSplash = () => {
-    setWorkReactbd(false);
-    setWorkGoogle(false);
+    setWorkCodeAlpha(false);
+    setWorkKUnity(false);
     setWorkApple(false);
     setWorkSplash(true);
     setWorkAmazon(false);
   };
   const handleAmazon = () => {
-    setWorkReactbd(false);
-    setWorkGoogle(false);
+    setWorkCodeAlpha(false);
+    setWorkKUnity(false);
     setWorkApple(false);
     setWorkSplash(false);
     setWorkAmazon(true);
@@ -59,24 +59,24 @@ const Experience = () => {
       <div className="w-full mt-10 flex flex-col md:flex-row gap-16">
         <ul className="md:w-32 flex flex-col">
           <li
-            onClick={handleReactbd}
+            onClick={handleCodeAlpha}
             className={`${
-              workReactbd
+              workCodeAlpha
                 ? "border-l-textGreen text-textGreen"
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            RactBD
+            CodeAlpha
           </li>
           <li
-            onClick={handleGoogle}
+            onClick={handleKUnity}
             className={`${
-              workGoogle
+              workKUnity
                 ? "border-l-textGreen text-textGreen"
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            Google
+            K-unity
           </li>
           <li
             onClick={handleApple}
@@ -109,8 +109,8 @@ const Experience = () => {
             Amazon
           </li>
         </ul>
-        {workReactbd && <ReactBD />}
-        {workGoogle && <Google />}
+        {workCodeAlpha && <CodeAlpha />}
+        {workKUnity && <KUnity />}
         {workApple && <Apple />}
         {workSplash && <Splash />}
         {workAmazon && <Amazon />}
